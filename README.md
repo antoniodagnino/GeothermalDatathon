@@ -1,5 +1,4 @@
 # PIVOT 2022 Geothermal Datathon: SPE - Gulf Coast Section
-## Exploratory Data Analysis
 
 
 #### - Team: 
