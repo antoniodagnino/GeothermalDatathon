@@ -3,7 +3,7 @@
 
 #### - Team: 
 GeotherML    
-**Presentation Link:** [click here](https://www.youtube.com/watch?v=y8h9uC1_XEg&list=PLS5boi0GYiHh5MryabmKbmhMdtkFYzvDw&index=6)
+Presentation Link: [click here](https://www.youtube.com/watch?v=y8h9uC1_XEg&list=PLS5boi0GYiHh5MryabmKbmhMdtkFYzvDw&index=6)
 
     
 #### - Team Members:
